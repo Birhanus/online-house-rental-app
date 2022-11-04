@@ -16,8 +16,14 @@ Install my-project
   pip install pillow
 
   cd onine-house-rental-app
-  py manage.py runserver
+  py manage.py runserver![customer  page after login (2)](https://user-images.githubusercontent.com/88324419/200087564-58976200-5161-40b3-9a4e-1c94a9070ba5.jpg)
+
 ```
+
+## Screenshoot
+### customers page after login
+![customer  page after login (2)](https://user-images.githubusercontent.com/88324419/200087658-a4935e3c-5890-43d9-b54b-2a6652f2d35e.jpg)
+
     
 ## Authors
 
